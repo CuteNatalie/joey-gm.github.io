@@ -1,0 +1,43 @@
+<packageInfo>
+    <bundleId>com.joey-gm.artemis</bundleId>
+    <name>Artemis</name>
+    <version>0.7.21~beta1</version>
+    <descriptions>
+        <description>
+            Springboard UI customization
+        </description>
+        <description>
+            Create a simplistic and clutter-free home screen and lock screen experience on iOS 13. 
+        </description>
+        <description>
+            Configurable options: 
+        </description>
+        <description>
+            - Hide home bar indicator
+        </description>
+        <description>
+            - Home screen: transparent dock, page indicator, hide or rename icon labels
+        </description>
+        <description>
+            - Lock screen: remove Face ID lock icon, control center grabber, quick action buttons, 'no older notification' prompt, customize 'swipe up to open' hint
+        </description>
+        <description>
+            Experimental feature: mini media control on lock screen (tested on iPhone X only; may lead to undesirable layout on other phone resolutions)
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>13.0</miniOS>
+        <maxiOS>13.3</maxiOS>
+    </compatibility>
+    <changelog>
+        <change>
+            <changeVersion>V0.7.21</changeVersion>
+            <changeDescription>Initial public release (beta1)</changeDescription>
+        </change>
+    </changelog>
+    <screenshots>
+        <screen>1.PNG</screen>
+        <screen>2.PNG</screen>
+        <screen>3.PNG</screen>
+    </screenshots>
+</packageInfo>
