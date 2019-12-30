@@ -25,7 +25,7 @@
             - Status bar: rename carrier, hide carrier, hide all status bar items
         </description>
         <description>
-            - Spotlight search: disable search bar in home screen and/or lock screen's today view
+            - Spotlight search: disable search bar on home screen and/or lock screen's today view
         </description>
         <description>
             Experimental feature: mini media control on lock screen (tested on iPhone X only; may lead to undesirable layout on other phone resolutions)
