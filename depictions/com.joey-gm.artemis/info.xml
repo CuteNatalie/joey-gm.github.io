@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>com.joey-gm.artemis</bundleId>
     <name>Artemis</name>
-    <version>0.7.21~beta1</version>
+    <version>0.7.21~beta2</version>
     <descriptions>
         <description>
             Springboard UI customization
@@ -19,7 +19,13 @@
             - Home screen: transparent dock, page indicator, hide or rename icon labels
         </description>
         <description>
-            - Lock screen: remove Face ID lock icon, control center grabber, quick action buttons, 'no older notification' prompt, customize 'swipe up to open' hint
+            - Lock screen: remove Face ID lock icon, control center grabber, quick action buttons, 'no older notification' prompt, customize unlock hint
+        </description>
+        <description>
+            - Status bar: rename carrier, hide carrier, hide all status bar items
+        </description>
+        <description>
+            - Spotlight search: disable search bar in home screen and/or lock screen's today view
         </description>
         <description>
             Experimental feature: mini media control on lock screen (tested on iPhone X only; may lead to undesirable layout on other phone resolutions)
@@ -31,13 +37,18 @@
     </compatibility>
     <changelog>
         <change>
-            <changeVersion>V0.7.21</changeVersion>
-            <changeDescription>Initial public release (beta1)</changeDescription>
+            <changeVersion>V0.7.21 (beta 2)</changeVersion>
+            <changeDescription>New options for status bar and spotlight search</changeDescription>
+            <changeDescription>Unlock hint customization applies to both 'Swipe up to open' (iPhone X+) and 'Press home button to unlock' (Home button devices)</changeDescription>
+        </change>
+        <change>
+            <changeVersion>V0.7.21 (beta 1)</changeVersion>
+            <changeDescription>Initial public release</changeDescription>
         </change>
     </changelog>
     <screenshots>
-        <screen>1.PNG</screen>
-        <screen>2.PNG</screen>
-        <screen>3.PNG</screen>
+        <screen>1.png</screen>
+        <screen>2.png</screen>
+        <screen>3.png</screen>
     </screenshots>
 </packageInfo>
