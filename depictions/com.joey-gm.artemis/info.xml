@@ -38,17 +38,17 @@
     <changelog>
         <change>
             <changeVersion>V0.7.21 (beta 2)</changeVersion>
-            <changeDescription>New options for status bar and spotlight search</changeDescription>
-            <changeDescription>Unlock hint customization applies to both 'Swipe up to open' (iPhone X+) and 'Press home button to unlock' (Home button devices)</changeDescription>
+            <changeDescription>New options for status bar and spotlight search.</changeDescription>
+            <changeDescription>Unlock hint customization applies to both 'Swipe up to open' (iPhone X+) and 'Press home button to unlock' (home button devices).</changeDescription>
         </change>
         <change>
             <changeVersion>V0.7.21 (beta 1)</changeVersion>
-            <changeDescription>Initial public release</changeDescription>
+            <changeDescription>Initial public release.</changeDescription>
         </change>
     </changelog>
     <screenshots>
-        <screen>1.png</screen>
-        <screen>2.png</screen>
-        <screen>3.png</screen>
+        <screen>1.PNG</screen>
+        <screen>2.PNG</screen>
+        <screen>3.PNG</screen>
     </screenshots>
 </packageInfo>
