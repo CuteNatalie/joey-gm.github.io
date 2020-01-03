@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>com.joey-gm.artemis</bundleId>
     <name>Artemis</name>
-    <version>0.7.21~beta2</version>
+    <version>0.7.21~beta3</version>
     <descriptions>
         <description>
             Springboard UI customization
@@ -16,7 +16,7 @@
             - Hide home bar indicator
         </description>
         <description>
-            - Home screen: transparent dock, page indicator, hide or rename icon labels
+            - Home screen: transparent dock, page indicator, hide or rename icon labels, undim screen timed out icon, hide the hourglass label
         </description>
         <description>
             - Lock screen: remove Face ID lock icon, control center grabber, quick action buttons, 'no older notification' prompt, customize unlock hint
@@ -36,6 +36,10 @@
         <maxiOS>13.3</maxiOS>
     </compatibility>
     <changelog>
+        <change>
+            <changeVersion>V0.7.21 (beta 3)</changeVersion>
+            <changeDescription>Screen Time: Undim timed out icon and hide the hourglass label.</changeDescription>
+        </change>
         <change>
             <changeVersion>V0.7.21 (beta 2)</changeVersion>
             <changeDescription>New options for status bar and spotlight search.</changeDescription>
