@@ -16,16 +16,19 @@
             - Hide home bar indicator
         </description>
         <description>
-            - Home screen: transparent dock, page indicator, hide or rename icon labels, undim screen timed out icon, hide the hourglass label
+            - Home screen: transparent dock, page indicator, hide or rename icon labels, hide recently updated dots, undim screen timed out icon, hide the hourglass label
         </description>
         <description>
-            - Lock screen: remove Face ID lock icon, control center grabber, quick action buttons, 'no older notification' prompt, customize unlock hint
+            - Lock screen: remove Face ID lock icon, control center grabber, quick action buttons, 'no older notification' prompt, customize unlock hint, disable charging animation
         </description>
         <description>
             - Status bar: rename carrier, hide carrier, hide all status bar items
         </description>
         <description>
             - Spotlight search: disable search bar on home screen and/or lock screen's today view
+        </description>
+        <description>
+            - Today View: remove widget edit button and weather and stocks footer's info from today view.
         </description>
         <description>
             Experimental feature: mini media control on lock screen (tested on iPhone X only; may lead to undesirable layout on other phone resolutions)
@@ -36,6 +39,10 @@
         <maxiOS>13.3</maxiOS>
     </compatibility>
     <changelog>
+        <change>
+            <changeVersion>V0.7.21 (beta 4)</changeVersion>
+            <changeDescription>Disable charging animation, hide recently updated dots, remove widget edit button and footer from Today View.</changeDescription>
+        </change>
         <change>
             <changeVersion>V0.7.21 (beta 3)</changeVersion>
             <changeDescription>Screen Time: Undim timed out icon and hide the hourglass label.</changeDescription>
