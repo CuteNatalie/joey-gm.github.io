@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>com.joey-gm.artemis</bundleId>
     <name>Artemis</name>
-    <version>0.7.21~beta3</version>
+    <version>0.7.21~beta5</version>
     <descriptions>
         <description>
             Springboard UI customization
@@ -22,13 +22,13 @@
             - Lock screen: remove Face ID lock icon, control center grabber, quick action buttons, 'no older notification' prompt, customize unlock hint, disable charging animation
         </description>
         <description>
-            - Status bar: rename carrier, hide carrier, hide all status bar items
+            - Status bar: rename carrier, wifi network as carrier name, hide carrier, hide all status bar items
         </description>
         <description>
             - Spotlight search: disable search bar on home screen and/or lock screen's today view
         </description>
         <description>
-            - Today View: remove widget edit button and weather and stocks footer's info from today view.
+            - Today View: hide widget edit button, hide widget background and remove weather and stocks footer's info from today view.
         </description>
         <description>
             Experimental feature: mini media control on lock screen (tested on iPhone X only; may lead to undesirable layout on other phone resolutions)
@@ -39,6 +39,10 @@
         <maxiOS>13.3</maxiOS>
     </compatibility>
     <changelog>
+        <change>
+            <changeVersion>V0.7.21 (beta 5)</changeVersion>
+            <changeDescription>Wifi network as carrier name, hide widget background and some under the hood code optimizations.</changeDescription>
+        </change>
         <change>
             <changeVersion>V0.7.21 (beta 4)</changeVersion>
             <changeDescription>Disable charging animation, hide recently updated dots, remove widget edit button and footer from Today View.</changeDescription>
