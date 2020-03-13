@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>com.joey-gm.poseidon</bundleId>
     <name>Poseidon</name>
-    <version>0.8.31~beta2</version>
+    <version>0.8.31~beta1</version>
     <descriptions>
         <description>
             Poseidon is an iOS theme engine for iOS 13 that aims to avoid any battery drain!
@@ -27,11 +27,6 @@
         <maxiOS>13.3</maxiOS>
     </compatibility>
     <changelog>
-        <change>
-            <changeVersion>V0.8.31 (beta 2)</changeVersion>
-            <changeDescription>Poseidon now refreshes the entire UI Cache whenever users apply/revert the themes</changeDescription>
-            <changeDescription>Added Poseidon removal script such that removal of Poseidon will also restore the system cacahe to defaults.</changeDescription>
-        </change>
         <change>
             <changeVersion>V0.8.31 (beta 1)</changeVersion>
             <changeDescription>Initial public release.</changeDescription>
