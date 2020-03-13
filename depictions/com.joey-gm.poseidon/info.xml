@@ -1,0 +1,43 @@
+<packageInfo>
+    <bundleId>com.joey-gm.poseidon</bundleId>
+    <name>Poseidon</name>
+    <version>0.8.31~beta1</version>
+    <descriptions>
+        <description>
+            Poseidon theming engine
+        </description>
+        <description>
+            Poseidon is an iOS theme engine for iOS 13 that aims to avoid any battery drain!
+        </description>
+        <description>
+            Features: 
+        </description>
+        <description>
+            - Minimum/No battery drain!
+        </description>
+        <description>
+            - Icons are precomposed with color filter and icon masks. No additional processing during runtime.
+        </description>
+        <description>
+            - Smooth icon app launch effect, taking your custom icon mask and resizing into account.
+        </description>
+        <description>
+            - Apply color filter effects and mask tweak icons in Settings and more!
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>13.0</miniOS>
+        <maxiOS>13.3</maxiOS>
+    </compatibility>
+    <changelog>
+        <change>
+            <changeVersion>V0.8.31 (beta 1)</changeVersion>
+            <changeDescription>Initial public release.</changeDescription>
+        </change>
+    </changelog>
+    <screenshots>
+        <screen>1.PNG</screen>
+        <screen>2.PNG</screen>
+        <screen>3.PNG</screen>
+    </screenshots>
+</packageInfo>
