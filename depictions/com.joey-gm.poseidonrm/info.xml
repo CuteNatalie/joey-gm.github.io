@@ -1,0 +1,13 @@
+<packageInfo>
+    <bundleId>com.joey-gm.poseidonrm</bundleId>
+    <name>Poseidon Removal Tool</name>
+    <descriptions>
+        <description>
+            Poseidon Removal Tool - Please download this package, which will revert all the changes made by Poseidon and rebuild uncache (by executing uncache --all). After a respring, please remove both the Poseidon Package and this Poseidon Removal Tool Package from Cydia.
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>13.0</miniOS>
+        <maxiOS>13.3</maxiOS>
+    </compatibility>
+</packageInfo>
