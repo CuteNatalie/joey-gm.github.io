@@ -4,41 +4,11 @@
     <version>0.8.31~beta2</version>
     <descriptions>
         <description>
-            Poseidon is an iOS theme engine for iOS 13 that aims to avoid any battery drain!
-        </description>
-        <description>
-            Features: 
-        </description>
-        <description>
-            - Minimum/No battery drain!
-        </description>
-        <description>
-            - Icons are precomposed with color filter and icon masks. No additional processing during runtime.
-        </description>
-        <description>
-            - Smooth icon app launch effect, taking your custom icon mask and resizing into account.
-        </description>
-        <description>
-            - Apply color filter effects and mask tweak icons in Settings and more!
+            Discountined. A removal tool will be available shortly.
         </description>
     </descriptions>
     <compatibility>
         <miniOS>13.0</miniOS>
         <maxiOS>13.3</maxiOS>
     </compatibility>
-    <changelog>
-        <change>
-            <changeVersion>V0.8.31 (beta 2)</changeVersion>
-            <changeDescription>Updated the icon caching process.</changeDescription>
-            <changeDescription>Experimental fix for Apple Watch and CarPlay icons.</changeDescription>
-            <changeDescription>Added removal script in the package such that all modifications will be reverted upon uninstallation.</changeDescription>
-        </change>
-        <change>
-            <changeVersion>V0.8.31 (beta 1)</changeVersion>
-            <changeDescription>Initial public release.</changeDescription>
-        </change>
-    </changelog>
-    <screenshots>
-        <screen>poseidon.png</screen>
-    </screenshots>
 </packageInfo>
