@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>com.joey-gm.poseidon</bundleId>
     <name>Poseidon</name>
-    <version>0.8.31~beta1</version>
+    <version>0.8.31~beta2</version>
     <descriptions>
         <description>
             Poseidon is an iOS theme engine for iOS 13 that aims to avoid any battery drain!
@@ -27,6 +27,12 @@
         <maxiOS>13.3</maxiOS>
     </compatibility>
     <changelog>
+        <change>
+            <changeVersion>V0.8.31 (beta 2)</changeVersion>
+            <changeDescription>Updated the icon caching process.</changeDescription>
+            <changeDescription>Experimental fix for Apple Watch and CarPlay icons.</changeDescription>
+            <changeDescription>Added removal script in the package such that all modifications will be reverted upon uninstallation.</changeDescription>
+        </change>
         <change>
             <changeVersion>V0.8.31 (beta 1)</changeVersion>
             <changeDescription>Initial public release.</changeDescription>
