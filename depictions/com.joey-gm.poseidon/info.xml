@@ -1,10 +1,9 @@
 <packageInfo>
     <bundleId>com.joey-gm.poseidon</bundleId>
     <name>Poseidon</name>
-    <version>0.8.31~beta2</version>
     <descriptions>
         <description>
-            Discountined. A removal tool will be available shortly.
+            Poseidon is discountined. Please download the "Poseidon Removal Tool" in this repo to remove Poseidon completely.
         </description>
     </descriptions>
     <compatibility>
