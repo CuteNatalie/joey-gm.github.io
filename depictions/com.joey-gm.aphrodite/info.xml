@@ -4,9 +4,6 @@
     <version>0.6.12~beta1</version>
     <descriptions>
         <description>
-            Asset Catalog Editor
-        </description>
-        <description>
             Aphrodite is an Asset Catalog Editor for iOS 13.
         </description>
         <description>
@@ -19,7 +16,7 @@
             - Image, Icon, Color, PDF, Vector Glyph and Raw Data
         </description>
         <description>
-            - (Editing is only available for images and icons as of beta 1)
+            (Editing is only available for images and icons as of beta 1)
         </description>
     </descriptions>
     <compatibility>
