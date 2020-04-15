@@ -1,0 +1,38 @@
+<packageInfo>
+    <bundleId>com.joey-gm.aphrodite</bundleId>
+    <name>Aphrodite</name>
+    <version>0.6.12~beta1</version>
+    <descriptions>
+        <description>
+            Asset Catalog Editor
+        </description>
+        <description>
+            Aphrodite is an Asset Catalog Editor for iOS 13.
+        </description>
+        <description>
+            With Aphrodite,  you can browse, search, export and edit assets for .car files on device.
+        </description>
+        <description>
+            Supported asset types:
+        </description>
+        <description>
+            - Image, Icon, Color, PDF, Vector Glyph and Raw Data
+        </description>
+        <description>
+            - (Editing is only available for images and icons as of beta 1)
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>13.0</miniOS>
+        <maxiOS>13.4</maxiOS>
+    </compatibility>
+    <changelog>
+        <change>
+            <changeVersion>0.6.12 (beta 1)</changeVersion>
+            <changeDescription>Initial public release.</changeDescription>
+        </change>
+    </changelog>
+    <screenshots>
+        <screen>1.PNG</screen>
+    </screenshots>
+</packageInfo>
