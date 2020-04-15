@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>com.joey-gm.aphrodite</bundleId>
     <name>Aphrodite</name>
-    <version>0.6.12~beta1</version>
+    <version>0.6.12~beta2</version>
     <descriptions>
         <description>
             Aphrodite is an Asset Catalog Editor for iOS 13.
@@ -16,7 +16,7 @@
             - Image, Icon, Color, PDF, Vector Glyph and Raw Data
         </description>
         <description>
-            (Editing is only available for images and icons as of beta 1)
+            (Editing is only available for images and icons as of beta 2)
         </description>
     </descriptions>
     <compatibility>
@@ -25,7 +25,12 @@
     </compatibility>
     <changelog>
         <change>
-            <changeVersion>0.6.12 (beta 1)</changeVersion>
+            <changeVersion>v0.6.12~beta2</changeVersion>
+            <changeDescription>Revert button to remove edited assets.</changeDescription>
+            <changeDescription>Potential fix for app crashes and missing export folder.</changeDescription>
+        </change>
+        <change>
+            <changeVersion>v0.6.12~beta1</changeVersion>
             <changeDescription>Initial public release.</changeDescription>
         </change>
     </changelog>
